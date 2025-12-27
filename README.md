@@ -33,8 +33,6 @@ O bot é completo e inclui:
 - **Autenticação Discord** - Login seguro via OAuth2
 - **Sincronização em Tempo Real** - Dados atualizados automaticamente com o bot
 
-## 📸 Screenshots
-
 ### Dashboard Principal
 - Cards de estatísticas com sparklines
 - Gráfico de tickets por dia (semana/mês)
